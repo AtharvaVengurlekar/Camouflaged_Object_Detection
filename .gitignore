@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.DS_Store
+
+
+# Dataset directories
+train/
+val/
+test/
+
+
+# OS metadata
+Thumbs.db
+desktop.ini
