@@ -72,10 +72,10 @@ jupyter notebook test.ipynb
 
 Then run the cells in order:
 - **Install YOLOv8 via Ultralytics**
-1)Install YOLOv8 via Ultralytics
-2)Load the model
-3)Train on your dataset
-4)Inference on test images
+- **Load the model**
+- **Train on your dataset**
+- **Inference on test images**
+  
 5)Sample Results:
   a)Precision-Recall Curve
   b)F1 Curve
