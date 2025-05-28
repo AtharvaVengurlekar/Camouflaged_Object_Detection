@@ -84,7 +84,6 @@ Then run the cells in order:
 
 All available under runs/detect/train/
 
-###Model Used
+#Model Used
 ##yolov8n.pt for initial training
-
 ##Custom-trained model (best.pt or last.pt) from runs/detect/train2/weights/
