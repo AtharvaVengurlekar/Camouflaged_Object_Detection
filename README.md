@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/rawsi18/military-assets-dataset-12-classes-yolo8
 Option 2: From Google Drive
 📁 Dataset: Drive Dataset Link : 
 
-📦 Trained Model: Drive Model Link : 
+📦 Train Model: Drive Model Link : https://automatonai1-my.sharepoint.com/:f:/g/personal/atharva_vengurlekar_automatonai_com/EmnxZJ5HUoVKlV3f_R6uwggBvFWYAXC93_QKF4csmAwHMw?e=2v4AQn
 
 After downloading, extract the dataset folders (train, val, and test) into the project directory. Also, place the trained model .pt file in a convenient location.
 
