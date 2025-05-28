@@ -21,9 +21,6 @@ Camouflaged_Object_Detection_Project/
 ├── yolo11n.pt # Custom model weights (optional)
 └── .gitignore
 
-yaml
-Copy
-Edit
 
 ---
 
