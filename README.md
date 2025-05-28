@@ -58,8 +58,8 @@ Then run the cells in order:
   - **Labeled Predictions**
   - **Validation Batch Visualizations**
 
-All available under runs/detect/train/
+All available under results/weights
 
 ##  Model Used
-- **yolov8n.pt for initial training**
-- **Custom-trained model (best.pt or last.pt) from runs/detect/train2/weights/**
+- **yolov8s.pt for initial training**
+- **Custom-trained model (best.pt or last.pt) from results/detect/weights/**
