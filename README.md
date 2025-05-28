@@ -33,10 +33,8 @@ Download the dataset from Kaggle:
 🔗 Kaggle Dataset Link
 https://www.kaggle.com/datasets/rawsi18/military-assets-dataset-12-classes-yolo8-format
 
-Option 2: From Google Drive
-📁 Dataset: Drive Dataset Link : 
-
-📦 Train Model: Drive Model Link : https://automatonai1-my.sharepoint.com/:f:/g/personal/atharva_vengurlekar_automatonai_com/EmnxZJ5HUoVKlV3f_R6uwggBvFWYAXC93_QKF4csmAwHMw?e=2v4AQn
+Download train tmodel from drive:
+https://drive.google.com/drive/folders/10Ix66f7V6jSYYLV6CvGWce_IioBrEjWD?usp=drive_link
 
 After downloading, extract the dataset folders (train, val, and test) into the project directory. Also, place the trained model .pt file in a convenient location.
 
