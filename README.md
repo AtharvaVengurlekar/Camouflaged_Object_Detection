@@ -1,5 +1,3 @@
-# Camouflaged_Object_Detection
-
 # 🕵️‍♂️ Camouflaged Object Detection using YOLOv8
 
 This project focuses on detecting camouflaged objects in images using the YOLOv8 object detection model. The goal is to accurately identify objects that blend into complex backgrounds.
