@@ -27,13 +27,13 @@ conda activate camo_env
 pip install -r requirements.txt
 ```
 
-###Download Dataset and Model
+# Download Dataset and Model
 Option 1: From Kaggle
 Download the dataset from Kaggle:
-🔗 Kaggle Dataset Link
+## Kaggle Dataset Link
 https://www.kaggle.com/datasets/rawsi18/military-assets-dataset-12-classes-yolo8-format
 
-Download train tmodel from drive:
+## Download train tmodel from drive:
 https://drive.google.com/drive/folders/10Ix66f7V6jSYYLV6CvGWce_IioBrEjWD?usp=drive_link
 
 After downloading, extract the dataset folders (train, val, and test) into the project directory. Also, place the trained model .pt file in a convenient location.
