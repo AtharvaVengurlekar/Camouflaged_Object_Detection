@@ -2,25 +2,6 @@
 
 This project focuses on detecting camouflaged objects in images using the YOLOv8 object detection model. The goal is to accurately identify objects that blend into complex backgrounds.
 
-## 📂 Project Structure
-
-Camouflaged_Object_Detection_Project/
-├── train/                  # Training images
-├── val/                   # Validation images
-├── test/                  # Test images
-├── runs/                  # YOLO training results
-│   └── detect/
-│       └── train2/
-│           ├── weights/   # Contains trained .pt files
-│           ├── *.jpg, *.png  # Visual results (metrics and samples)
-├── dataset.yaml           # Dataset configuration
-├── requirements.txt       # Python dependencies
-├── test.ipynb             # Main notebook for training & inference
-├── yolov8n.pt             # Pre-trained YOLOv8n weights
-├── yolo11n.pt             # Custom model weights (optional)
-└── .gitignore
-
-
 ---
 
 ## Getting Started
