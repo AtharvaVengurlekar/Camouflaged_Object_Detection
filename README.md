@@ -37,7 +37,7 @@ cd Camouflaged_Object_Detection_Project
 ```
 
 ### Step 2: Set Python Environment
-##Ensure you are using Python 3.10.16 (recommended). You can use virtualenv or conda:
+Ensure you are using Python 3.10.16 (recommended). You can use virtualenv or conda:
 
 ```bash
 conda create -n camo_env python=3.10.16
