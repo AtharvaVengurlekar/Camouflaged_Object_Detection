@@ -76,15 +76,15 @@ Then run the cells in order:
 - **Train on your dataset**
 - **Inference on test images**
   
-5)Sample Results:
-  a)Precision-Recall Curve
-  b)F1 Curve
-  c)Confusion Matrix
-  d)Labeled Predictions
-  e)Validation Batch Visualizations
+## Sample Results:
+  - **Precision-Recall Curve**
+  - **F1 Curve**
+  - **Confusion Matrix**
+  - **Labeled Predictions**
+  - **Validation Batch Visualizations**
 
 All available under runs/detect/train/
 
 ##  Model Used
-1)yolov8n.pt for initial training
-2)Custom-trained model (best.pt or last.pt) from runs/detect/train2/weights/
+- **yolov8n.pt for initial training**
+- **Custom-trained model (best.pt or last.pt) from runs/detect/train2/weights/**
