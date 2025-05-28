@@ -52,11 +52,13 @@ Then run the cells in order:
 - **Inference on test images**
   
 ## Sample Results:
-  - **Precision-Recall Curve**
-  - **F1 Curve**
-  - **Confusion Matrix**
-  - **Labeled Predictions**
-  - **Validation Batch Visualizations**
+  - **Precision-Recall Curve** : Shows the trade-off between precision (how many detected objects were correct) and recall (how many actual objects were detected). A good model will have a curve closer to the top right.
+  - **F1 Curve** : Displays the F1 score (harmonic mean of precision and recall) across different confidence thresholds. It helps determine the threshold at which the model performs best overall.
+  - **Confusion Matrix** : A visual representation of predicted vs actual classes. It shows where the model made correct predictions and where it misclassified, helping identify specific problem areas.
+
+
+  - **Labeled Predictions** : Images showing the model's predictions (bounding boxes and class labels) on unseen test data. These help you visually assess the model's accuracy and performance.
+  - **Validation Batch Visualizations** : Samples from the validation dataset with both ground truth and predicted labels shown. Useful to compare the model's output directly with the expected results.
 
 All available under results/weights
 
