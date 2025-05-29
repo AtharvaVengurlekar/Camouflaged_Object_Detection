@@ -57,7 +57,6 @@ Then run the cells in order:
   ![Image](https://github.com/user-attachments/assets/99bc5b5f-55bf-4230-8eb7-33fc534b82c1)
   
   - **Confusion Matrix** : A visual representation of predicted vs actual classes. It shows where the model made correct predictions and where it misclassified, helping identify specific problem areas.
-
   ![Image](https://github.com/user-attachments/assets/c83cbf42-1642-4097-ad2a-ec0c4830c042)
 
 
