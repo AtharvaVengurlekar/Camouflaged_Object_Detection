@@ -63,7 +63,7 @@ Then run the cells in order:
 
   - **Labeled Predictions** : Images showing the model's predictions (bounding boxes and class labels) on unseen test data. These help you visually assess the model's accuracy and performance.
   - **Validation Batch Visualizations** : Samples from the validation dataset with both ground truth and predicted labels shown. Useful to compare the model's output directly with the expected results.
-         ![Image](https://github.com/user-attachments/assets/5ac5d0cd-5062-4412-9ee3-49f28b07f399)
+         ![Image](https://github.com/user-attachments/assets/7103cfc6-d9f6-4ffa-8052-6ef013c10a8d)
 
 All available under results/weights
 
