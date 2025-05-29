@@ -42,7 +42,7 @@ Running the Notebook
 Launch the notebook:
 
 ```bash
-jupyter notebook test.ipynb
+jupyter notebook main.ipynb
 ```
 
 Then run the cells in order:
