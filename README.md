@@ -56,6 +56,8 @@ Then run the cells in order:
   - **F1 Curve** : Displays the F1 score (harmonic mean of precision and recall) across different confidence thresholds. It helps determine the threshold at which the model performs best overall.
   - **Confusion Matrix** : A visual representation of predicted vs actual classes. It shows where the model made correct predictions and where it misclassified, helping identify specific problem areas.
 
+  ![Image](https://github.com/user-attachments/assets/c83cbf42-1642-4097-ad2a-ec0c4830c042)
+
 
   - **Labeled Predictions** : Images showing the model's predictions (bounding boxes and class labels) on unseen test data. These help you visually assess the model's accuracy and performance.
   - **Validation Batch Visualizations** : Samples from the validation dataset with both ground truth and predicted labels shown. Useful to compare the model's output directly with the expected results.
