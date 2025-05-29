@@ -54,6 +54,8 @@ Then run the cells in order:
 ## Sample Results:
   - **Precision-Recall Curve** : Shows the trade-off between precision (how many detected objects were correct) and recall (how many actual objects were detected). A good model will have a curve closer to the top right.
   - **F1 Curve** : Displays the F1 score (harmonic mean of precision and recall) across different confidence thresholds. It helps determine the threshold at which the model performs best overall.
+  ![Image](https://github.com/user-attachments/assets/99bc5b5f-55bf-4230-8eb7-33fc534b82c1)
+  
   - **Confusion Matrix** : A visual representation of predicted vs actual classes. It shows where the model made correct predictions and where it misclassified, helping identify specific problem areas.
 
   ![Image](https://github.com/user-attachments/assets/c83cbf42-1642-4097-ad2a-ec0c4830c042)
